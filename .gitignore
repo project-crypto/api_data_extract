@@ -8,7 +8,7 @@ __pycache__/
 
 # conf ignore
 
-/conf/config.py
+/news_api/config.py
 
 # Distribution / packaging
 .Python
